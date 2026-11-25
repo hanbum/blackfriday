@@ -1,11 +1,10 @@
 {
-  "name": "goodtask",
+  "name": "GoodTask",
   "url": "https://goodtaskapp.com",
   "description": "Powerful Task Manager based on Apple Reminders for Mac, iPhone and iPad",
   "category": "productivity",
   "platforms": ["mac", "ios", "ipad"],
   "deal": "50% off lifetime",
-  "code": "",
   "pricing": "lifetime",
   "price": { "regular": 39.99, "sale": 19.49, "currency": "USD" },
   "discount": 50,
